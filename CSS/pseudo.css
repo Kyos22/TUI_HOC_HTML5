@@ -1,0 +1,27 @@
+
+#click1:link{
+    color: white;
+    background-color: black;
+    border: 2px solid white;
+}
+#click2:visited{
+    color: white;
+    background-color: brown;
+    border: 2px solid white;
+
+}
+#click3:hover{
+    color: black;
+    background-color: white;
+    border: 2px solid black;
+}
+#hm1:first-line{
+    font-family: "Tahoma";
+    font-weight: bolder;
+    background-color: #FFFFCC;
+}
+.hm:first-child{
+    font-family: fantasy;
+    font-size: xx-large;
+    font-weight: bold;
+}
